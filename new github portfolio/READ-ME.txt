@@ -1,0 +1,28 @@
+MERAJ NAHID KHAN — ENGINEERING PORTFOLIO
+
+REVIEW
+Unzip this package and open index.html. All six pages, photos, fonts, and the résumé are included.
+The separate Meraj-Nahid-Khan-Portfolio.html file is a portable copy of the same six-page website.
+
+PUBLISH
+Upload this package's contents to a static website host. Keep index.html at the website root.
+No installation, build command, backend, API key, or third-party font service is required.
+For GitHub Pages, publish the repository root from your selected branch. The .nojekyll file is included.
+
+CONTENTS
+index.html       Portrait, experience, selected projects, education, interests, and contact
+systemworks.html Design reviews, controls reviews, functional test development, and commissioning
+rc-car.html      Personal 1:10-scale RC vehicle project
+flywheel.html    Team flywheel generator project
+prisum.html      Solar car materials and component contributions
+archive.html     25 original photographs and CAD views
+assets/          Original-content web images, local fonts, and résumé
+
+All website links and assets are relative, so the website works at a custom domain or in a subdirectory.
+The site has no analytics, tracking scripts, forms that collect visitor information, or hosting-provider branding.
+
+CONTENT
+Meraj Nahid Khan
+Iowa State University · B.S. Mechanical Engineering · Expected Fall 2027
+LinkedIn: https://www.linkedin.com/in/meraj-nahid-k-579793250
+Email: merajnah@iastate.edu
